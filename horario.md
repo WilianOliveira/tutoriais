@@ -35,12 +35,12 @@ Os horário reservados:
   --:      | :---  |  ---  |  ---  |  ---  | ---
  **13:30** |       | CM104 |       | CM104 |
  **15:30** | CM087 |       |       |       |  
- **17:30** |       |       |       |       | CM087
+ **17:30** |       | SC021 |       | SC021 | CM087
  **19:30** |       |       |       |       | 
  **21:30** |       |       |       |       | 
 
 - CM087 - Tópicos em Análise Numérica - Professor Abel
 - CM104 - Métodos de Matemática Aplicada I - Professora Ailin
-
+- SC021 - Matematica financeira Aplicada - Professor Ariel Albuquerque
 
 Reservas esporádicas:
